@@ -158,5 +158,3 @@
 [![Watch the video](https://img.youtube.com/vi/3enjqtwfZPw/0.jpg)](https://www.youtube.com/watch?v=3enjqtwfZPw)
 
 ---
-
-**附注：** 文章结构已进行了进一步强化，逻辑清晰、视觉效果强烈，适合SEO优化及GitHub发布。
